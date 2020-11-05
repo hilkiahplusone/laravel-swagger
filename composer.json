@@ -1,5 +1,5 @@
 {
-    "name": "plusonecompany/laravel-swagger",
+    "name": "popcx/docs",
     "description": "Auto generates the swagger documentation for a laravel project",
     "license": "MIT",
     "authors": [
